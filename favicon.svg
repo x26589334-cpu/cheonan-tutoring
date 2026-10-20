@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="14" fill="#7a5ca8"/>
-<text x="32" y="42" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="23" font-weight="700" letter-spacing="-1" fill="#fff" text-anchor="middle">천안</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#7a5ca8"/><path d="M32 11 C 44 11 50 22 50 33 C 50 45 42 54 32 54 C 22 54 14 45 14 33 C 14 22 20 11 32 11 Z" fill="#fff"/><path d="M32 13 V52" stroke="#7a5ca8" stroke-width="2.6" stroke-linecap="round"/><g stroke="#7a5ca8" stroke-width="2" fill="none" stroke-linecap="round" opacity=".5"><path d="M25 20 q-4 4 0 8 q4 4 0 8 q-4 4 0 8"/><path d="M39 20 q4 4 0 8 q-4 4 0 8 q4 4 0 8"/></g></svg>
